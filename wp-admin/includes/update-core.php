@@ -10,6 +10,11 @@
 /**
  * Stores files to be deleted.
  *
+<<<<<<< HEAD
+=======
+ * Bundled theme files should not be included in this list.
+ *
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
  * @since 2.7.0
  *
  * @global array $_old_files
@@ -35,8 +40,11 @@ $_old_files = array(
 	'wp-images/wp-small.png',
 	'wp-images/wpminilogo.png',
 	'wp.php',
+<<<<<<< HEAD
 	// 2.0.8
 	'wp-includes/js/tinymce/plugins/inlinepopups/readme.txt',
+=======
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 	// 2.1
 	'wp-admin/edit-form-ajax-cat.php',
 	'wp-admin/execute-pings.php',
@@ -50,8 +58,11 @@ $_old_files = array(
 	'wp-includes/functions-formatting.php',
 	'wp-includes/functions-post.php',
 	'wp-includes/js/dbx-key.js',
+<<<<<<< HEAD
 	'wp-includes/js/tinymce/plugins/autosave/langs/cs.js',
 	'wp-includes/js/tinymce/plugins/autosave/langs/sv.js',
+=======
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 	'wp-includes/links.php',
 	'wp-includes/pluggable-functions.php',
 	'wp-includes/template-functions-author.php',
@@ -62,7 +73,10 @@ $_old_files = array(
 	'wp-includes/wp-l10n.php',
 	// 2.2
 	'wp-admin/cat-js.php',
+<<<<<<< HEAD
 	'wp-admin/import/b2.php',
+=======
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 	'wp-includes/js/autosave-js.php',
 	'wp-includes/js/list-manipulation-js.php',
 	'wp-includes/js/wp-ajax-js.php',
@@ -106,13 +120,17 @@ $_old_files = array(
 	'wp-admin/js/link-cat.js',
 	'wp-admin/profile-update.php',
 	'wp-admin/templates.php',
+<<<<<<< HEAD
 	'wp-includes/images/wlw/WpComments.png',
 	'wp-includes/images/wlw/WpIcon.png',
 	'wp-includes/images/wlw/WpWatermark.png',
+=======
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 	'wp-includes/js/dbx.js',
 	'wp-includes/js/fat.js',
 	'wp-includes/js/list-manipulation.js',
 	'wp-includes/js/tinymce/langs/en.js',
+<<<<<<< HEAD
 	'wp-includes/js/tinymce/plugins/autosave/editor_plugin_src.js',
 	'wp-includes/js/tinymce/plugins/autosave/langs',
 	'wp-includes/js/tinymce/plugins/directionality/images',
@@ -131,14 +149,24 @@ $_old_files = array(
 	'wp-includes/js/tinymce/plugins/spellchecker/images',
 	'wp-includes/js/tinymce/plugins/spellchecker/langs',
 	'wp-includes/js/tinymce/plugins/spellchecker/tinyspell.php',
+=======
+	'wp-includes/js/tinymce/plugins/directionality/images',
+	'wp-includes/js/tinymce/plugins/directionality/langs',
+	'wp-includes/js/tinymce/plugins/paste/images',
+	'wp-includes/js/tinymce/plugins/paste/jscripts',
+	'wp-includes/js/tinymce/plugins/paste/langs',
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 	'wp-includes/js/tinymce/plugins/wordpress/images',
 	'wp-includes/js/tinymce/plugins/wordpress/langs',
 	'wp-includes/js/tinymce/plugins/wordpress/wordpress.css',
 	'wp-includes/js/tinymce/plugins/wphelp',
+<<<<<<< HEAD
 	'wp-includes/js/tinymce/themes/advanced/css',
 	'wp-includes/js/tinymce/themes/advanced/images',
 	'wp-includes/js/tinymce/themes/advanced/jscripts',
 	'wp-includes/js/tinymce/themes/advanced/langs',
+=======
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 	// 2.5.1
 	'wp-includes/js/tinymce/tiny_mce_gzip.php',
 	// 2.6
@@ -182,16 +210,22 @@ $_old_files = array(
 	'wp-includes/js/tinymce/tiny_mce_ext.js',
 	// 2.8
 	'wp-admin/js/users.js',
+<<<<<<< HEAD
 	'wp-includes/js/swfupload/plugins/swfupload.documentready.js',
 	'wp-includes/js/swfupload/plugins/swfupload.graceful_degradation.js',
+=======
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 	'wp-includes/js/swfupload/swfupload_f9.swf',
 	'wp-includes/js/tinymce/plugins/autosave',
 	'wp-includes/js/tinymce/plugins/paste/css',
 	'wp-includes/js/tinymce/utils/mclayer.js',
 	'wp-includes/js/tinymce/wordpress.css',
+<<<<<<< HEAD
 	// 2.8.5
 	'wp-admin/import/btt.php',
 	'wp-admin/import/jkw.php',
+=======
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 	// 2.9
 	'wp-admin/js/page.dev.js',
 	'wp-admin/js/page.js',
@@ -248,12 +282,18 @@ $_old_files = array(
 	'wp-admin/wp-admin.css',
 	'wp-admin/wp-admin.dev.css',
 	'wp-includes/js/codepress',
+<<<<<<< HEAD
 	'wp-includes/js/codepress/engines/khtml.js',
 	'wp-includes/js/codepress/engines/older.js',
 	'wp-includes/js/jquery/autocomplete.dev.js',
 	'wp-includes/js/jquery/autocomplete.js',
 	'wp-includes/js/jquery/interface.js',
 	'wp-includes/js/scriptaculous/prototype.js',
+=======
+	'wp-includes/js/jquery/autocomplete.dev.js',
+	'wp-includes/js/jquery/autocomplete.js',
+	'wp-includes/js/jquery/interface.js',
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 	// Following file added back in 5.1, see #45645.
 	//'wp-includes/js/tinymce/wp-tinymce.js',
 	// 3.1
@@ -275,7 +315,10 @@ $_old_files = array(
 	'wp-admin/sidebar.php',
 	'wp-includes/classes.php',
 	'wp-includes/js/tinymce/blank.htm',
+<<<<<<< HEAD
 	'wp-includes/js/tinymce/plugins/media/css/content.css',
+=======
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 	'wp-includes/js/tinymce/plugins/media/img',
 	'wp-includes/js/tinymce/plugins/safari',
 	// 3.2
@@ -284,11 +327,14 @@ $_old_files = array(
 	'wp-admin/js/list-table.dev.js',
 	'wp-admin/js/list-table.js',
 	'wp-includes/default-embeds.php',
+<<<<<<< HEAD
 	'wp-includes/js/tinymce/plugins/wordpress/img/help.gif',
 	'wp-includes/js/tinymce/plugins/wordpress/img/more.gif',
 	'wp-includes/js/tinymce/plugins/wordpress/img/toolbars.gif',
 	'wp-includes/js/tinymce/themes/advanced/img/fm.gif',
 	'wp-includes/js/tinymce/themes/advanced/img/sflogo.png',
+=======
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 	// 3.3
 	'wp-admin/css/colors-classic-rtl.css',
 	'wp-admin/css/colors-classic-rtl.dev.css',
@@ -344,12 +390,15 @@ $_old_files = array(
 	'wp-includes/js/tinymce/plugins/wplink/css',
 	'wp-includes/js/tinymce/plugins/wplink/img',
 	'wp-includes/js/tinymce/plugins/wplink/js',
+<<<<<<< HEAD
 	'wp-includes/js/tinymce/themes/advanced/img/wpicons.png',
 	'wp-includes/js/tinymce/themes/advanced/skins/wp_theme/img/butt2.png',
 	'wp-includes/js/tinymce/themes/advanced/skins/wp_theme/img/button_bg.png',
 	'wp-includes/js/tinymce/themes/advanced/skins/wp_theme/img/down_arrow.gif',
 	'wp-includes/js/tinymce/themes/advanced/skins/wp_theme/img/fade-butt.png',
 	'wp-includes/js/tinymce/themes/advanced/skins/wp_theme/img/separator.gif',
+=======
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 	// Don't delete, yet: 'wp-rss.php',
 	// Don't delete, yet: 'wp-rdf.php',
 	// Don't delete, yet: 'wp-rss2.php',
@@ -363,6 +412,7 @@ $_old_files = array(
 	'wp-admin/index-extra.php',
 	'wp-admin/network/index-extra.php',
 	'wp-admin/user/index-extra.php',
+<<<<<<< HEAD
 	'wp-admin/images/screenshots/admin-flyouts.png',
 	'wp-admin/images/screenshots/coediting.png',
 	'wp-admin/images/screenshots/drag-and-drop.png',
@@ -370,11 +420,14 @@ $_old_files = array(
 	'wp-admin/images/screenshots/media-icon.png',
 	'wp-admin/images/screenshots/new-feature-pointer.png',
 	'wp-admin/images/screenshots/welcome-screen.png',
+=======
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 	'wp-includes/css/editor-buttons.css',
 	'wp-includes/css/editor-buttons.dev.css',
 	'wp-includes/js/tinymce/plugins/paste/blank.htm',
 	'wp-includes/js/tinymce/plugins/wordpress/css',
 	'wp-includes/js/tinymce/plugins/wordpress/editor_plugin.dev.js',
+<<<<<<< HEAD
 	'wp-includes/js/tinymce/plugins/wordpress/img/embedded.png',
 	'wp-includes/js/tinymce/plugins/wordpress/img/more_bug.gif',
 	'wp-includes/js/tinymce/plugins/wordpress/img/page_bug.gif',
@@ -384,6 +437,11 @@ $_old_files = array(
 	'wp-includes/js/tinymce/plugins/wpfullscreen/editor_plugin.dev.js',
 	'wp-includes/js/tinymce/plugins/wpgallery/editor_plugin.dev.js',
 	'wp-includes/js/tinymce/plugins/wpgallery/img/gallery.png',
+=======
+	'wp-includes/js/tinymce/plugins/wpdialogs/editor_plugin.dev.js',
+	'wp-includes/js/tinymce/plugins/wpeditimage/editor_plugin.dev.js',
+	'wp-includes/js/tinymce/plugins/wpgallery/editor_plugin.dev.js',
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 	'wp-includes/js/tinymce/plugins/wplink/editor_plugin.dev.js',
 	// Don't delete, yet: 'wp-pass.php',
 	// Don't delete, yet: 'wp-register.php',
@@ -498,9 +556,12 @@ $_old_files = array(
 	'wp-admin/js/inline-edit-post.dev.js',
 	'wp-admin/js/categories.dev.js',
 	'wp-admin/js/editor.dev.js',
+<<<<<<< HEAD
 	'wp-includes/js/tinymce/plugins/wpeditimage/js/editimage.dev.js',
 	'wp-includes/js/tinymce/plugins/wpdialogs/js/popup.dev.js',
 	'wp-includes/js/tinymce/plugins/wpdialogs/js/wpdialog.dev.js',
+=======
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 	'wp-includes/js/plupload/handlers.dev.js',
 	'wp-includes/js/plupload/wp-plupload.dev.js',
 	'wp-includes/js/swfupload/handlers.dev.js',
@@ -527,6 +588,7 @@ $_old_files = array(
 	'wp-includes/js/jquery/ui/jquery.effects.pulsate.min.js',
 	'wp-includes/js/jquery/ui/jquery.effects.transfer.min.js',
 	'wp-includes/js/jquery/ui/jquery.effects.fold.min.js',
+<<<<<<< HEAD
 	'wp-admin/images/screenshots/captions-1.png',
 	'wp-admin/images/screenshots/captions-2.png',
 	'wp-admin/images/screenshots/flex-header-1.png',
@@ -536,12 +598,17 @@ $_old_files = array(
 	'wp-admin/images/screenshots/theme-customizer.png',
 	'wp-admin/images/screenshots/twitter-embed-1.png',
 	'wp-admin/images/screenshots/twitter-embed-2.png',
+=======
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 	'wp-admin/js/utils.js',
 	// Added back in 5.3 [45448], see #43895.
 	// 'wp-admin/options-privacy.php',
 	'wp-app.php',
 	'wp-includes/class-wp-atom-server.php',
+<<<<<<< HEAD
 	'wp-includes/js/tinymce/themes/advanced/skins/wp_theme/ui.css',
+=======
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 	// 3.5.2
 	'wp-includes/js/swfupload/swfupload-all.js',
 	// 3.6
@@ -554,10 +621,14 @@ $_old_files = array(
 	// 3.7
 	'wp-admin/js/cat.js',
 	'wp-admin/js/cat.min.js',
+<<<<<<< HEAD
 	'wp-includes/js/tinymce/plugins/wpeditimage/js/editimage.min.js',
 	// 3.8
 	'wp-includes/js/tinymce/themes/advanced/skins/wp_theme/img/page_bug.gif',
 	'wp-includes/js/tinymce/themes/advanced/skins/wp_theme/img/more_bug.gif',
+=======
+	// 3.8
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 	'wp-includes/js/thickbox/tb-close-2x.png',
 	'wp-includes/js/thickbox/tb-close.png',
 	'wp-includes/images/wpmini-blue-2x.png',
@@ -628,7 +699,10 @@ $_old_files = array(
 	'wp-includes/js/tinymce/plugins/wpeditimage/js',
 	'wp-includes/js/tinymce/plugins/wpeditimage/css',
 	'wp-includes/js/tinymce/plugins/wpgallery/img',
+<<<<<<< HEAD
 	'wp-includes/js/tinymce/plugins/wpfullscreen/css',
+=======
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 	'wp-includes/js/tinymce/plugins/paste/js',
 	'wp-includes/js/tinymce/themes/advanced',
 	'wp-includes/js/tinymce/tiny_mce.js',
@@ -657,8 +731,11 @@ $_old_files = array(
 	'wp-includes/js/tinymce/plugins/wpgallery/editor_plugin.js',
 	'wp-includes/js/tinymce/plugins/tabfocus/editor_plugin.js',
 	'wp-includes/js/tinymce/plugins/tabfocus/editor_plugin_src.js',
+<<<<<<< HEAD
 	'wp-includes/js/tinymce/plugins/wpfullscreen/editor_plugin.js',
 	'wp-includes/js/tinymce/plugins/wpfullscreen/editor_plugin_src.js',
+=======
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 	'wp-includes/js/tinymce/plugins/paste/editor_plugin.js',
 	'wp-includes/js/tinymce/plugins/paste/pasteword.htm',
 	'wp-includes/js/tinymce/plugins/paste/editor_plugin_src.js',
@@ -748,6 +825,7 @@ $_old_files = array(
 	'wp-includes/js/swfupload/swfupload.swf',
 	// 4.9.2
 	'wp-includes/js/mediaelement/lang',
+<<<<<<< HEAD
 	'wp-includes/js/mediaelement/lang/ca.js',
 	'wp-includes/js/mediaelement/lang/cs.js',
 	'wp-includes/js/mediaelement/lang/de.js',
@@ -769,6 +847,8 @@ $_old_files = array(
 	'wp-includes/js/mediaelement/lang/uk.js',
 	'wp-includes/js/mediaelement/lang/zh-cn.js',
 	'wp-includes/js/mediaelement/lang/zh.js',
+=======
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 	'wp-includes/js/mediaelement/mediaelement-flash-audio-ogg.swf',
 	'wp-includes/js/mediaelement/mediaelement-flash-audio.swf',
 	'wp-includes/js/mediaelement/mediaelement-flash-video-hls.swf',
@@ -785,7 +865,10 @@ $_old_files = array(
 	// 5.0
 	'wp-includes/js/codemirror/jshint.js',
 	// 5.1
+<<<<<<< HEAD
 	'wp-includes/random_compat/random_bytes_openssl.php',
+=======
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 	'wp-includes/js/tinymce/wp-tinymce.js.gz',
 	// 5.3
 	'wp-includes/js/wp-a11y.js',     // Moved to: wp-includes/js/dist/a11y.js
@@ -820,7 +903,10 @@ $_old_files = array(
 	'wp-includes/block-patterns/text-two-columns-with-images.php',
 	'wp-includes/block-patterns/text-two-columns.php',
 	'wp-includes/block-patterns/large-header-button.php',
+<<<<<<< HEAD
 	'wp-includes/blocks/subhead/block.json',
+=======
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 	'wp-includes/blocks/subhead',
 	'wp-includes/css/dist/editor/editor-styles.css',
 	'wp-includes/css/dist/editor/editor-styles.min.css',
@@ -831,10 +917,13 @@ $_old_files = array(
 	'wp-includes/blocks/heading/editor.min.css',
 	'wp-includes/blocks/heading/editor-rtl.css',
 	'wp-includes/blocks/heading/editor-rtl.min.css',
+<<<<<<< HEAD
 	'wp-includes/blocks/post-content/editor.css',
 	'wp-includes/blocks/post-content/editor.min.css',
 	'wp-includes/blocks/post-content/editor-rtl.css',
 	'wp-includes/blocks/post-content/editor-rtl.min.css',
+=======
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 	'wp-includes/blocks/query-title/editor.css',
 	'wp-includes/blocks/query-title/editor.min.css',
 	'wp-includes/blocks/query-title/editor-rtl.css',
@@ -843,6 +932,128 @@ $_old_files = array(
 	'wp-includes/blocks/tag-cloud/editor.min.css',
 	'wp-includes/blocks/tag-cloud/editor-rtl.css',
 	'wp-includes/blocks/tag-cloud/editor-rtl.min.css',
+<<<<<<< HEAD
+=======
+	// 6.1
+	'wp-includes/blocks/post-comments.php',
+	'wp-includes/blocks/post-comments',
+	'wp-includes/blocks/comments-query-loop',
+	// 6.3
+	'wp-includes/images/wlw',
+	'wp-includes/wlwmanifest.xml',
+	'wp-includes/random_compat',
+	// 6.4
+	'wp-includes/navigation-fallback.php',
+	'wp-includes/blocks/navigation/view-modal.min.js',
+	'wp-includes/blocks/navigation/view-modal.js',
+	// 6.5
+	'wp-includes/ID3/license.commercial.txt',
+	'wp-includes/blocks/query/style-rtl.min.css',
+	'wp-includes/blocks/query/style.min.css',
+	'wp-includes/blocks/query/style-rtl.css',
+	'wp-includes/blocks/query/style.css',
+	'wp-admin/images/about-header-privacy.svg',
+	'wp-admin/images/about-header-about.svg',
+	'wp-admin/images/about-header-credits.svg',
+	'wp-admin/images/about-header-freedoms.svg',
+	'wp-admin/images/about-header-contribute.svg',
+	'wp-admin/images/about-header-background.svg',
+	// 6.6
+	'wp-includes/blocks/block/editor.css',
+	'wp-includes/blocks/block/editor.min.css',
+	'wp-includes/blocks/block/editor-rtl.css',
+	'wp-includes/blocks/block/editor-rtl.min.css',
+);
+
+/**
+ * Stores Requests files to be preloaded and deleted.
+ *
+ * For classes/interfaces, use the class/interface name
+ * as the array key.
+ *
+ * All other files/directories should not have a key.
+ *
+ * @since 6.2.0
+ *
+ * @global array $_old_requests_files
+ * @var array
+ * @name $_old_requests_files
+ */
+global $_old_requests_files;
+
+$_old_requests_files = array(
+	// Interfaces.
+	'Requests_Auth'                              => 'wp-includes/Requests/Auth.php',
+	'Requests_Hooker'                            => 'wp-includes/Requests/Hooker.php',
+	'Requests_Proxy'                             => 'wp-includes/Requests/Proxy.php',
+	'Requests_Transport'                         => 'wp-includes/Requests/Transport.php',
+
+	// Classes.
+	'Requests_Auth_Basic'                        => 'wp-includes/Requests/Auth/Basic.php',
+	'Requests_Cookie_Jar'                        => 'wp-includes/Requests/Cookie/Jar.php',
+	'Requests_Exception_HTTP'                    => 'wp-includes/Requests/Exception/HTTP.php',
+	'Requests_Exception_Transport'               => 'wp-includes/Requests/Exception/Transport.php',
+	'Requests_Exception_HTTP_304'                => 'wp-includes/Requests/Exception/HTTP/304.php',
+	'Requests_Exception_HTTP_305'                => 'wp-includes/Requests/Exception/HTTP/305.php',
+	'Requests_Exception_HTTP_306'                => 'wp-includes/Requests/Exception/HTTP/306.php',
+	'Requests_Exception_HTTP_400'                => 'wp-includes/Requests/Exception/HTTP/400.php',
+	'Requests_Exception_HTTP_401'                => 'wp-includes/Requests/Exception/HTTP/401.php',
+	'Requests_Exception_HTTP_402'                => 'wp-includes/Requests/Exception/HTTP/402.php',
+	'Requests_Exception_HTTP_403'                => 'wp-includes/Requests/Exception/HTTP/403.php',
+	'Requests_Exception_HTTP_404'                => 'wp-includes/Requests/Exception/HTTP/404.php',
+	'Requests_Exception_HTTP_405'                => 'wp-includes/Requests/Exception/HTTP/405.php',
+	'Requests_Exception_HTTP_406'                => 'wp-includes/Requests/Exception/HTTP/406.php',
+	'Requests_Exception_HTTP_407'                => 'wp-includes/Requests/Exception/HTTP/407.php',
+	'Requests_Exception_HTTP_408'                => 'wp-includes/Requests/Exception/HTTP/408.php',
+	'Requests_Exception_HTTP_409'                => 'wp-includes/Requests/Exception/HTTP/409.php',
+	'Requests_Exception_HTTP_410'                => 'wp-includes/Requests/Exception/HTTP/410.php',
+	'Requests_Exception_HTTP_411'                => 'wp-includes/Requests/Exception/HTTP/411.php',
+	'Requests_Exception_HTTP_412'                => 'wp-includes/Requests/Exception/HTTP/412.php',
+	'Requests_Exception_HTTP_413'                => 'wp-includes/Requests/Exception/HTTP/413.php',
+	'Requests_Exception_HTTP_414'                => 'wp-includes/Requests/Exception/HTTP/414.php',
+	'Requests_Exception_HTTP_415'                => 'wp-includes/Requests/Exception/HTTP/415.php',
+	'Requests_Exception_HTTP_416'                => 'wp-includes/Requests/Exception/HTTP/416.php',
+	'Requests_Exception_HTTP_417'                => 'wp-includes/Requests/Exception/HTTP/417.php',
+	'Requests_Exception_HTTP_418'                => 'wp-includes/Requests/Exception/HTTP/418.php',
+	'Requests_Exception_HTTP_428'                => 'wp-includes/Requests/Exception/HTTP/428.php',
+	'Requests_Exception_HTTP_429'                => 'wp-includes/Requests/Exception/HTTP/429.php',
+	'Requests_Exception_HTTP_431'                => 'wp-includes/Requests/Exception/HTTP/431.php',
+	'Requests_Exception_HTTP_500'                => 'wp-includes/Requests/Exception/HTTP/500.php',
+	'Requests_Exception_HTTP_501'                => 'wp-includes/Requests/Exception/HTTP/501.php',
+	'Requests_Exception_HTTP_502'                => 'wp-includes/Requests/Exception/HTTP/502.php',
+	'Requests_Exception_HTTP_503'                => 'wp-includes/Requests/Exception/HTTP/503.php',
+	'Requests_Exception_HTTP_504'                => 'wp-includes/Requests/Exception/HTTP/504.php',
+	'Requests_Exception_HTTP_505'                => 'wp-includes/Requests/Exception/HTTP/505.php',
+	'Requests_Exception_HTTP_511'                => 'wp-includes/Requests/Exception/HTTP/511.php',
+	'Requests_Exception_HTTP_Unknown'            => 'wp-includes/Requests/Exception/HTTP/Unknown.php',
+	'Requests_Exception_Transport_cURL'          => 'wp-includes/Requests/Exception/Transport/cURL.php',
+	'Requests_Proxy_HTTP'                        => 'wp-includes/Requests/Proxy/HTTP.php',
+	'Requests_Response_Headers'                  => 'wp-includes/Requests/Response/Headers.php',
+	'Requests_Transport_cURL'                    => 'wp-includes/Requests/Transport/cURL.php',
+	'Requests_Transport_fsockopen'               => 'wp-includes/Requests/Transport/fsockopen.php',
+	'Requests_Utility_CaseInsensitiveDictionary' => 'wp-includes/Requests/Utility/CaseInsensitiveDictionary.php',
+	'Requests_Utility_FilteredIterator'          => 'wp-includes/Requests/Utility/FilteredIterator.php',
+	'Requests_Cookie'                            => 'wp-includes/Requests/Cookie.php',
+	'Requests_Exception'                         => 'wp-includes/Requests/Exception.php',
+	'Requests_Hooks'                             => 'wp-includes/Requests/Hooks.php',
+	'Requests_IDNAEncoder'                       => 'wp-includes/Requests/IDNAEncoder.php',
+	'Requests_IPv6'                              => 'wp-includes/Requests/IPv6.php',
+	'Requests_IRI'                               => 'wp-includes/Requests/IRI.php',
+	'Requests_Response'                          => 'wp-includes/Requests/Response.php',
+	'Requests_SSL'                               => 'wp-includes/Requests/SSL.php',
+	'Requests_Session'                           => 'wp-includes/Requests/Session.php',
+
+	// Directories.
+	'wp-includes/Requests/Auth/',
+	'wp-includes/Requests/Cookie/',
+	'wp-includes/Requests/Exception/HTTP/',
+	'wp-includes/Requests/Exception/Transport/',
+	'wp-includes/Requests/Exception/',
+	'wp-includes/Requests/Proxy/',
+	'wp-includes/Requests/Response/',
+	'wp-includes/Requests/Transport/',
+	'wp-includes/Requests/Utility/',
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 );
 
 /**
@@ -850,7 +1061,11 @@ $_old_files = array(
  *
  * The contents of this array indicate any new bundled plugins/themes which
  * should be installed with the WordPress Upgrade. These items will not be
+<<<<<<< HEAD
  * re-installed in future upgrades, this behaviour is controlled by the
+=======
+ * re-installed in future upgrades, this behavior is controlled by the
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
  * introduced version present here being older than the current installed version.
  *
  * The content of this array should follow the following format:
@@ -869,6 +1084,7 @@ $_old_files = array(
 global $_new_bundled_files;
 
 $_new_bundled_files = array(
+<<<<<<< HEAD
 	'plugins/akismet/'        => '2.0',
 	'themes/twentyten/'       => '3.0',
 	'themes/twentyeleven/'    => '3.2',
@@ -882,13 +1098,34 @@ $_new_bundled_files = array(
 	'themes/twentytwenty/'    => '5.3',
 	'themes/twentytwentyone/' => '5.6',
 	'themes/twentytwentytwo/' => '5.9',
+=======
+	'plugins/akismet/'          => '2.0',
+	'themes/twentyten/'         => '3.0',
+	'themes/twentyeleven/'      => '3.2',
+	'themes/twentytwelve/'      => '3.5',
+	'themes/twentythirteen/'    => '3.6',
+	'themes/twentyfourteen/'    => '3.8',
+	'themes/twentyfifteen/'     => '4.1',
+	'themes/twentysixteen/'     => '4.4',
+	'themes/twentyseventeen/'   => '4.7',
+	'themes/twentynineteen/'    => '5.0',
+	'themes/twentytwenty/'      => '5.3',
+	'themes/twentytwentyone/'   => '5.6',
+	'themes/twentytwentytwo/'   => '5.9',
+	'themes/twentytwentythree/' => '6.1',
+	'themes/twentytwentyfour/'  => '6.4',
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 );
 
 /**
  * Upgrades the core of WordPress.
  *
  * This will create a .maintenance file at the base of the WordPress directory
+<<<<<<< HEAD
  * to ensure that people can not access the web site, when the files are being
+=======
+ * to ensure that people can not access the website, when the files are being
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
  * copied to their locations.
  *
  * The files in the `$_old_files` list will be removed and the new files
@@ -928,6 +1165,10 @@ $_new_bundled_files = array(
  *
  * @global WP_Filesystem_Base $wp_filesystem          WordPress filesystem subclass.
  * @global array              $_old_files
+<<<<<<< HEAD
+=======
+ * @global array              $_old_requests_files
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
  * @global array              $_new_bundled_files
  * @global wpdb               $wpdb                   WordPress database abstraction object.
  * @global string             $wp_version
@@ -939,9 +1180,25 @@ $_new_bundled_files = array(
  * @return string|WP_Error New WordPress version on success, WP_Error on failure.
  */
 function update_core( $from, $to ) {
+<<<<<<< HEAD
 	global $wp_filesystem, $_old_files, $_new_bundled_files, $wpdb;
 
 	set_time_limit( 300 );
+=======
+	global $wp_filesystem, $_old_files, $_old_requests_files, $_new_bundled_files, $wpdb;
+
+	if ( function_exists( 'set_time_limit' ) ) {
+		set_time_limit( 300 );
+	}
+
+	/*
+	 * Merge the old Requests files and directories into the `$_old_files`.
+	 * Then preload these Requests files first, before the files are deleted
+	 * and replaced to ensure the code is in memory if needed.
+	 */
+	$_old_files = array_merge( $_old_files, array_values( $_old_requests_files ) );
+	_preload_old_requests_classes_and_interfaces( $to );
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 
 	/**
 	 * Filters feedback messages displayed during the core update process.
@@ -962,7 +1219,11 @@ function update_core( $from, $to ) {
 	 */
 	apply_filters( 'update_feedback', __( 'Verifying the unpacked files&#8230;' ) );
 
+<<<<<<< HEAD
 	// Sanity check the unzipped distribution.
+=======
+	// Confidence check the unzipped distribution.
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 	$distro = '';
 	$roots  = array( '/wordpress/', '/wordpress-mu/' );
 
@@ -983,7 +1244,11 @@ function update_core( $from, $to ) {
 
 	/*
 	 * Import $wp_version, $required_php_version, and $required_mysql_version from the new version.
+<<<<<<< HEAD
 	 * DO NOT globalise any variables imported from `version-current.php` in this function.
+=======
+	 * DO NOT globalize any variables imported from `version-current.php` in this function.
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 	 *
 	 * BC Note: $wp_filesystem->wp_content_dir() returned unslashed pre-2.8.
 	 */
@@ -994,7 +1259,11 @@ function update_core( $from, $to ) {
 
 		return new WP_Error(
 			'copy_failed_for_version_file',
+<<<<<<< HEAD
 			__( 'The update cannot be installed because we will be unable to copy some files. This is usually due to inconsistent file permissions.' ),
+=======
+			__( 'The update cannot be installed because some files could not be copied. This is usually due to inconsistent file permissions.' ),
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 			'wp-includes/version.php'
 		);
 	}
@@ -1012,9 +1281,20 @@ function update_core( $from, $to ) {
 	require WP_CONTENT_DIR . '/upgrade/version-current.php';
 	$wp_filesystem->delete( $versions_file );
 
+<<<<<<< HEAD
 	$php_version       = phpversion();
 	$mysql_version     = $wpdb->db_version();
 	$old_wp_version    = $GLOBALS['wp_version']; // The version of WordPress we're updating from.
+=======
+	$php_version    = PHP_VERSION;
+	$mysql_version  = $wpdb->db_version();
+	$old_wp_version = $GLOBALS['wp_version']; // The version of WordPress we're updating from.
+	/*
+	 * Note: str_contains() is not used here, as this file is included
+	 * when updating from older WordPress versions, in which case
+	 * the polyfills from wp-includes/compat.php may not be available.
+	 */
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 	$development_build = ( false !== strpos( $old_wp_version . $wp_version, '-' ) ); // A dash in the version indicates a development release.
 	$php_compat        = version_compare( $php_version, $required_php_version, '>=' );
 
@@ -1099,8 +1379,15 @@ function update_core( $from, $to ) {
 	/** This filter is documented in wp-admin/includes/update-core.php */
 	apply_filters( 'update_feedback', __( 'Preparing to install the latest version&#8230;' ) );
 
+<<<<<<< HEAD
 	// Don't copy wp-content, we'll deal with that below.
 	// We also copy version.php last so failed updates report their old version.
+=======
+	/*
+	 * Don't copy wp-content, we'll deal with that below.
+	 * We also copy version.php last so failed updates report their old version.
+	 */
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 	$skip              = array( 'wp-content', 'wp-includes/version.php' );
 	$check_is_writable = array();
 
@@ -1117,6 +1404,14 @@ function update_core( $from, $to ) {
 
 		if ( is_array( $checksums ) ) {
 			foreach ( $checksums as $file => $checksum ) {
+<<<<<<< HEAD
+=======
+				/*
+				 * Note: str_starts_with() is not used here, as this file is included
+				 * when updating from older WordPress versions, in which case
+				 * the polyfills from wp-includes/compat.php may not be available.
+				 */
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 				if ( 'wp-content' === substr( $file, 0, 10 ) ) {
 					continue;
 				}
@@ -1166,7 +1461,11 @@ function update_core( $from, $to ) {
 			if ( $files_not_writable ) {
 				return new WP_Error(
 					'files_not_writable',
+<<<<<<< HEAD
 					__( 'The update cannot be installed because we will be unable to copy some files. This is usually due to inconsistent file permissions.' ),
+=======
+					__( 'The update cannot be installed because your site is unable to copy some files. This is usually due to inconsistent file permissions.' ),
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 					implode( ', ', $error_data )
 				);
 			}
@@ -1186,7 +1485,11 @@ function update_core( $from, $to ) {
 	apply_filters( 'update_feedback', __( 'Copying the required files&#8230;' ) );
 
 	// Copy new versions of WP files into place.
+<<<<<<< HEAD
 	$result = _copy_dir( $from . $distro, $to, $skip );
+=======
+	$result = copy_dir( $from . $distro, $to, $skip );
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 
 	if ( is_wp_error( $result ) ) {
 		$result = new WP_Error(
@@ -1202,7 +1505,11 @@ function update_core( $from, $to ) {
 			$wp_filesystem->delete( $from, true );
 			$result = new WP_Error(
 				'copy_failed_for_version_file',
+<<<<<<< HEAD
 				__( 'The update cannot be installed because we will be unable to copy some files. This is usually due to inconsistent file permissions.' ),
+=======
+				__( 'The update cannot be installed because your site is unable to copy some files. This is usually due to inconsistent file permissions.' ),
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 				'wp-includes/version.php'
 			);
 		}
@@ -1224,6 +1531,14 @@ function update_core( $from, $to ) {
 
 	if ( isset( $checksums ) && is_array( $checksums ) ) {
 		foreach ( $checksums as $file => $checksum ) {
+<<<<<<< HEAD
+=======
+			/*
+			 * Note: str_starts_with() is not used here, as this file is included
+			 * when updating from older WordPress versions, in which case
+			 * the polyfills from wp-includes/compat.php may not be available.
+			 */
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 			if ( 'wp-content' === substr( $file, 0, 10 ) ) {
 				continue;
 			}
@@ -1257,14 +1572,26 @@ function update_core( $from, $to ) {
 			}
 		}
 
+<<<<<<< HEAD
 		// If we don't have enough free space, it isn't worth trying again.
 		// Unlikely to be hit due to the check in unzip_file().
 		$available_space = @disk_free_space( ABSPATH );
+=======
+		/*
+		 * If we don't have enough free space, it isn't worth trying again.
+		 * Unlikely to be hit due to the check in unzip_file().
+		 */
+		$available_space = function_exists( 'disk_free_space' ) ? @disk_free_space( ABSPATH ) : false;
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 
 		if ( $available_space && $total_size >= $available_space ) {
 			$result = new WP_Error( 'disk_full', __( 'There is not enough free disk space to complete the update.' ) );
 		} else {
+<<<<<<< HEAD
 			$result = _copy_dir( $from . $distro, $to, $skip );
+=======
+			$result = copy_dir( $from . $distro, $to, $skip );
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 
 			if ( is_wp_error( $result ) ) {
 				$result = new WP_Error(
@@ -1276,15 +1603,30 @@ function update_core( $from, $to ) {
 		}
 	}
 
+<<<<<<< HEAD
 	// Custom content directory needs updating now.
 	// Copy languages.
+=======
+	/*
+	 * Custom content directory needs updating now.
+	 * Copy languages.
+	 */
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 	if ( ! is_wp_error( $result ) && $wp_filesystem->is_dir( $from . $distro . 'wp-content/languages' ) ) {
 		if ( WP_LANG_DIR !== ABSPATH . WPINC . '/languages' || @is_dir( WP_LANG_DIR ) ) {
 			$lang_dir = WP_LANG_DIR;
 		} else {
 			$lang_dir = WP_CONTENT_DIR . '/languages';
 		}
+<<<<<<< HEAD
 
+=======
+		/*
+		 * Note: str_starts_with() is not used here, as this file is included
+		 * when updating from older WordPress versions, in which case
+		 * the polyfills from wp-includes/compat.php may not be available.
+		 */
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 		// Check if the language directory exists first.
 		if ( ! @is_dir( $lang_dir ) && 0 === strpos( $lang_dir, ABSPATH ) ) {
 			// If it's within the ABSPATH we can handle it here, otherwise they're out of luck.
@@ -1315,8 +1657,15 @@ function update_core( $from, $to ) {
 	// Remove maintenance file, we're done with potential site-breaking changes.
 	$wp_filesystem->delete( $maintenance_file );
 
+<<<<<<< HEAD
 	// 3.5 -> 3.5+ - an empty twentytwelve directory was created upon upgrade to 3.5 for some users,
 	// preventing installation of Twenty Twelve.
+=======
+	/*
+	 * 3.5 -> 3.5+ - an empty twentytwelve directory was created upon upgrade to 3.5 for some users,
+	 * preventing installation of Twenty Twelve.
+	 */
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 	if ( '3.5' === $old_wp_version ) {
 		if ( is_dir( WP_CONTENT_DIR . '/themes/twentytwelve' )
 			&& ! file_exists( WP_CONTENT_DIR . '/themes/twentytwelve/style.css' )
@@ -1371,10 +1720,20 @@ function update_core( $from, $to ) {
 					$wp_filesystem->mkdir( $dest . $filename, FS_CHMOD_DIR );
 					$_result = copy_dir( $from . $distro . 'wp-content/' . $file, $dest . $filename );
 
+<<<<<<< HEAD
 					// If a error occurs partway through this final step, keep the error flowing through, but keep process going.
 					if ( is_wp_error( $_result ) ) {
 						if ( ! is_wp_error( $result ) ) {
 							$result = new WP_Error;
+=======
+					/*
+					 * If an error occurs partway through this final step,
+					 * keep the error flowing through, but keep the process going.
+					 */
+					if ( is_wp_error( $_result ) ) {
+						if ( ! is_wp_error( $result ) ) {
+							$result = new WP_Error();
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 						}
 
 						$result->add(
@@ -1415,8 +1774,13 @@ function update_core( $from, $to ) {
 	// Deactivate the REST API plugin if its version is 2.0 Beta 4 or lower.
 	_upgrade_440_force_deactivate_incompatible_plugins();
 
+<<<<<<< HEAD
 	// Deactivate the Gutenberg plugin if its version is 11.8 or lower.
 	_upgrade_590_force_deactivate_incompatible_plugins();
+=======
+	// Deactivate incompatible plugins.
+	_upgrade_core_deactivate_incompatible_plugins();
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 
 	// Upgrade DB with separate request.
 	/** This filter is documented in wp-admin/includes/update-core.php */
@@ -1458,6 +1822,7 @@ function update_core( $from, $to ) {
 }
 
 /**
+<<<<<<< HEAD
  * Copies a directory from one location to another via the WordPress Filesystem Abstraction.
  *
  * Assumes that WP_Filesystem() has already been called and setup.
@@ -1544,6 +1909,62 @@ function _copy_dir( $from, $to, $skip_list = array() ) {
 	}
 
 	return true;
+=======
+ * Preloads old Requests classes and interfaces.
+ *
+ * This function preloads the old Requests code into memory before the
+ * upgrade process deletes the files. Why? Requests code is loaded into
+ * memory via an autoloader, meaning when a class or interface is needed
+ * If a request is in process, Requests could attempt to access code. If
+ * the file is not there, a fatal error could occur. If the file was
+ * replaced, the new code is not compatible with the old, resulting in
+ * a fatal error. Preloading ensures the code is in memory before the
+ * code is updated.
+ *
+ * @since 6.2.0
+ *
+ * @global array              $_old_requests_files Requests files to be preloaded.
+ * @global WP_Filesystem_Base $wp_filesystem       WordPress filesystem subclass.
+ * @global string             $wp_version          The WordPress version string.
+ *
+ * @param string $to Path to old WordPress installation.
+ */
+function _preload_old_requests_classes_and_interfaces( $to ) {
+	global $_old_requests_files, $wp_filesystem, $wp_version;
+
+	/*
+	 * Requests was introduced in WordPress 4.6.
+	 *
+	 * Skip preloading if the website was previously using
+	 * an earlier version of WordPress.
+	 */
+	if ( version_compare( $wp_version, '4.6', '<' ) ) {
+		return;
+	}
+
+	if ( ! defined( 'REQUESTS_SILENCE_PSR0_DEPRECATIONS' ) ) {
+		define( 'REQUESTS_SILENCE_PSR0_DEPRECATIONS', true );
+	}
+
+	foreach ( $_old_requests_files as $name => $file ) {
+		// Skip files that aren't interfaces or classes.
+		if ( is_int( $name ) ) {
+			continue;
+		}
+
+		// Skip if it's already loaded.
+		if ( class_exists( $name ) || interface_exists( $name ) ) {
+			continue;
+		}
+
+		// Skip if the file is missing.
+		if ( ! $wp_filesystem->is_file( $to . $file ) ) {
+			continue;
+		}
+
+		require_once $to . $file;
+	}
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 }
 
 /**
@@ -1554,7 +1975,11 @@ function _copy_dir( $from, $to, $skip_list = array() ) {
  * @since 3.3.0
  *
  * @global string $wp_version The WordPress version string.
+<<<<<<< HEAD
  * @global string $pagenow
+=======
+ * @global string $pagenow    The filename of the current screen.
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
  * @global string $action
  *
  * @param string $new_version
@@ -1668,6 +2093,14 @@ function _upgrade_422_find_genericons_files_in_folder( $directory ) {
 	$files     = array();
 
 	if ( file_exists( "{$directory}example.html" )
+<<<<<<< HEAD
+=======
+		/*
+		 * Note: str_contains() is not used here, as this file is included
+		 * when updating from older WordPress versions, in which case
+		 * the polyfills from wp-includes/compat.php may not be available.
+		 */
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 		&& false !== strpos( file_get_contents( "{$directory}example.html" ), '<title>Genericons</title>' )
 	) {
 		$files[] = "{$directory}example.html";
@@ -1676,8 +2109,19 @@ function _upgrade_422_find_genericons_files_in_folder( $directory ) {
 	$dirs = glob( $directory . '*', GLOB_ONLYDIR );
 	$dirs = array_filter(
 		$dirs,
+<<<<<<< HEAD
 		static function( $dir ) {
 			// Skip any node_modules directories.
+=======
+		static function ( $dir ) {
+			/*
+			 * Skip any node_modules directories.
+			 *
+			 * Note: str_contains() is not used here, as this file is included
+			 * when updating from older WordPress versions, in which case
+			 * the polyfills from wp-includes/compat.php may not be available.
+			 */
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 			return false === strpos( $dir, 'node_modules' );
 		}
 	);
@@ -1704,6 +2148,7 @@ function _upgrade_440_force_deactivate_incompatible_plugins() {
 /**
  * @access private
  * @ignore
+<<<<<<< HEAD
  * @since 5.9.0
  */
 function _upgrade_590_force_deactivate_incompatible_plugins() {
@@ -1712,6 +2157,20 @@ function _upgrade_590_force_deactivate_incompatible_plugins() {
 			'plugin_name'         => 'Gutenberg',
 			'version_deactivated' => GUTENBERG_VERSION,
 			'version_compatible'  => '11.9',
+=======
+ * @since 5.8.0
+ * @since 5.9.0 The minimum compatible version of Gutenberg is 11.9.
+ * @since 6.1.1 The minimum compatible version of Gutenberg is 14.1.
+ * @since 6.4.0 The minimum compatible version of Gutenberg is 16.5.
+ * @since 6.5.0 The minimum compatible version of Gutenberg is 17.6.
+ */
+function _upgrade_core_deactivate_incompatible_plugins() {
+	if ( defined( 'GUTENBERG_VERSION' ) && version_compare( GUTENBERG_VERSION, '17.6', '<' ) ) {
+		$deactivated_gutenberg['gutenberg'] = array(
+			'plugin_name'         => 'Gutenberg',
+			'version_deactivated' => GUTENBERG_VERSION,
+			'version_compatible'  => '17.6',
+>>>>>>> a6b6b81 (Kemaskini fail WordPress)
 		);
 		if ( is_plugin_active_for_network( 'gutenberg/gutenberg.php' ) ) {
 			$deactivated_plugins = get_site_option( 'wp_force_deactivated_plugins', array() );

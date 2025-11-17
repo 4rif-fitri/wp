@@ -1,0 +1,11 @@
+/* 
+Theme Name: Online Games
+Template: underscores
+*/
+body{
+    background-color: rgb(68, 69, 151) !important;
+    color: white;
+}
+a{
+    color: white !important;
+}
